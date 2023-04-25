@@ -18,9 +18,11 @@
 }
 
 @media (max-width:768px) {
+
 .about {
   text-align: center;
 }
+
 }
 .app-body {
   display: block;
