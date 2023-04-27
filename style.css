@@ -71,6 +71,10 @@ input,button{
   margin: 0;
   text-transform: uppercase;
 }
+
+.app-body-add-section {
+  margin: 16px 0;
+}
 .main-input {
   margin: 0;
   font-size: 18px;
